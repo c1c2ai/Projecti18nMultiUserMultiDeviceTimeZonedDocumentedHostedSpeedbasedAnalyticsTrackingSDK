@@ -1,1 +1,4 @@
 # Projecti18nMultiUserMultiDeviceTimeZonedDocumentedHostedSpeedbasedAnalyticsTrackingSDK
+
+
+with Authentication and Authorization
